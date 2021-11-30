@@ -1,0 +1,30 @@
+.contenedorFilters {
+  align-items: center;
+  background-color: rgb(35, 157, 238);
+  display: flex;
+  height: 60px;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+input,
+select {
+  height: 43px;
+  outline: none;
+  padding-left: 10px;
+  width: 199px;
+}
+
+.boton {
+  background-color: #f00;
+  border: 0;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 20px;
+  height: 40px;
+  width: 130px;
+}
+.iconoTacho {
+  margin-right: 10px;
+}

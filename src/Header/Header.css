@@ -1,0 +1,27 @@
+.contenedor {
+  align-items: center;
+  background-color: rgb(0, 209, 178);
+  display: flex;
+  font-family: "Ropa Sans", sans-serif;
+  height: 230px;
+  margin: 0 auto;
+  width: 100%;
+}
+h1 {
+  color: #fff;
+  font-size: 40px;
+  margin-left: 68px;
+}
+
+.textosHeader {
+  margin-left: 150px;
+}
+.textosHeader p {
+  color: #ffffff;
+  font-size: 20px;
+  margin-bottom: 11px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
